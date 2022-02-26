@@ -14,8 +14,41 @@ Terdapat empat bahasa yang digunakan dalam Repository ini, yaitu:
 - Python
 
 ### Penjelasan Project
-Project ini merupakan implementasi dari Multilevels Inheritance, maka dari itu untuk project ini memiliki tiga kelas, yaitu Product, Hardware, dan Memory. Kelas Product merupakan parent dari kelas Hardware dan kelas Hardware merupakan parent dari kelas Memory. Untuk lebih jelasnya dapat dilihat dari gambar dibawah ini:
+Project ini merupakan implementasi dari Composition, maka dari itu untuk project ini terdiri dari empat kelas, yaitu PC, Processor, RAM, dan Disk. Kelas Processor, RAM, dan Disk merupakan komposisi dari kelas PC atau bisa dibilang kelas PC mempunyai kelas Processor, RAM, dan Disk. Untuk lebih jelasnya dapat dilihat dari gambar dibawah ini:
 
 <p align="center">
-  <img src="https://github.com/ghifari21/LATIHAN2DPBO2022/blob/e8b7cd2358d9326e0ae2667782d8d31f564dd954/Latihan2.png?raw=true" alt="Desain Latihan 2"/>
+  <img src="https://github.com/ghifari21/LATIHAN3DPBO2022/blob/0386ff77a46b8d7e3bfffc78657ca82114d74e04/Desain%20Latihan%203.png" alt="Desain Latihan 3"/>
 </p>
+
+### Cara Eksekusi Kode Program
+Adapun cara mengeksekusi kode program dalam Repository ini adalah sebagai berikut.
+
+- ### C++
+```
+g++ -c *.cpp
+g++ main.cpp -o [nama file].exe
+```
+- ### Java
+```
+javac *.java
+java main
+```
+- ### PHP
+ 1. Masukan folder yang mengandung file PHP ke dalam folder *htdocs* didalam direktori ***XAMPP***
+ 2. Aktifkan web server ***Apache*** pada ***XAMPP***
+ 3. Masukan alamat berikut pada browser:
+> localhost/(nama folder)/(nama file).php
+- ### Python
+```
+py (nama file).py
+```
+
+### Hasil dari Kode Program Setelah Dijalankan
+- ### C++
+![Latihan 3 C++](https://github.com/ghifari21/LATIHAN3DPBO2022/blob/0386ff77a46b8d7e3bfffc78657ca82114d74e04/Screenshot/Latihan3_C++.png)
+- ### Java
+![Latihan 3 Java](https://github.com/ghifari21/LATIHAN3DPBO2022/blob/0386ff77a46b8d7e3bfffc78657ca82114d74e04/Screenshot/Latihan3_Java.png)
+- ### PHP
+![Latihan 3 PHP](https://github.com/ghifari21/LATIHAN3DPBO2022/blob/0386ff77a46b8d7e3bfffc78657ca82114d74e04/Screenshot/Latihan3_PHP.png)
+- ### Python
+![Latihan 3 Python](https://github.com/ghifari21/LATIHAN3DPBO2022/blob/0386ff77a46b8d7e3bfffc78657ca82114d74e04/Screenshot/Latihan3_Python.png)
