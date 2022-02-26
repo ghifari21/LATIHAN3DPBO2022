@@ -51,4 +51,4 @@ py (nama file).py
 - ### PHP
 ![Latihan 3 PHP](https://github.com/ghifari21/LATIHAN3DPBO2022/blob/0386ff77a46b8d7e3bfffc78657ca82114d74e04/Screenshot/Latihan3_PHP.png)
 - ### Python
-![Latihan 3 Python](https://github.com/ghifari21/LATIHAN3DPBO2022/blob/0386ff77a46b8d7e3bfffc78657ca82114d74e04/Screenshot/Latihan3_Python.png)
+![Latihan 3 Python](https://github.com/ghifari21/LATIHAN3DPBO2022/blob/f0cd4c502d0cb1cdf6ddd57f3440ab40a83227aa/Screenshot/Latihan3_Python.png)
